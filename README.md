@@ -37,3 +37,8 @@ runApp()
 ## Deployed app
 
 Deployed app: [ChocoSales Shiny for R App](https://connect.posit.cloud/samrawit/content/019ceb3b-9c20-9fec-3b67-b8ce21d66937)
+
+## Repository
+
+This repository contains the Shiny for R app and cleaned chocolate sales dataset used for the dashboard.
+
