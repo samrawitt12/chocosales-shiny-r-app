@@ -23,3 +23,17 @@ Open R and run:
 
 ```r
 install.packages(c("shiny", "dplyr", "ggplot2", "readr"))
+```
+
+## Run the app locally
+
+In R, set your working directory to the project folder, then run:
+
+```r
+library(shiny)
+runApp()
+```
+
+## Deployed app
+
+Deployed app: [ChocoSales Shiny for R App](https://connect.posit.cloud/samrawit/content/019ceb3b-9c20-9fec-3b67-b8ce21d66937)
